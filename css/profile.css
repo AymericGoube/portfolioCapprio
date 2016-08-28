@@ -1,0 +1,121 @@
+h2 {
+  margin-top: 30px;
+  margin-bottom: 30px;
+}
+
+.no-padding {
+  padding:0px;
+}
+.profile_photo {
+  width:100%;
+  height:300px;
+  background-size: cover;
+  background-position: center;
+}
+
+.profile_id {
+  font-weight: bold;
+  margin-top: 0px;
+  margin-bottom: 20px;
+}
+
+.profile_social {
+  margin-top: 20px;
+  margin-bottom: 20px;
+}
+.profile_padding {
+  padding-top: 150px;
+  padding-bottom: 150px;
+}
+.flex-row {
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: space-between;
+}
+
+.flex-column {
+  display: flex;
+  flex-direction: column;
+}
+
+.form-space {
+  margin-top: 25px;
+}
+
+.row_label {
+  margin-right: 20px;
+}
+
+.hire_msg {
+  border: 1px solid red;
+  background-color: #FF9999;
+  color:red;
+}
+
+.free_msg {
+  border: 1px solid green;
+  background-color: #99FF99;
+  color:green;
+}
+
+.custom-input-size {
+  width:100%;
+}
+
+.custom-area-size {
+  width:100%;
+  height:200px;
+}
+
+.submit-container {
+  margin-top: 30px;
+  margin-bottom: 30px;
+}
+
+/***
+**
+**
+*/
+.card {
+  border: 1px solid black;
+  border-radius: 5px;
+}
+
+.card:hover {
+  cursor: pointer;
+}
+
+.card-header {
+  margin-top: 15px;
+  margin-bottom: 15px;
+}
+
+.card-photo {
+  background-position: center;
+  background-size: contain;
+  height: 60px;
+  padding: 0;
+  width: 60px;
+  border-radius: 100%;
+}
+
+.card-footer {
+  margin-top: 15px;
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  align-items: center;
+  margin-bottom: 15px;
+}
+
+.circle {
+  width:15px;
+  height:15px;
+  border-radius: 100%;
+}
+
+.descrip-box {
+  overflow: hidden;
+  height:150px;
+}
