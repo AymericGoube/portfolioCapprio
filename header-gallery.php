@@ -44,7 +44,7 @@
             <span>Menu</span>
           </button>
           <a class="navbar-brand logo-air" href="<?php echo site_url().'/index.php'; ?>">
-            <img style="width:200px;" src="<?php echo get_stylesheet_directory_uri().'/images/logo-w.png' ?>" alt=""/>
+            <img class="logocapprio" src="<?php echo get_stylesheet_directory_uri().'/images/logo-w.png' ?>" alt=""/>
           </a>
 
 
